@@ -1,0 +1,15 @@
+/home/icaro/DIO.List/bin/Debug/net7.0/DIO.List
+/home/icaro/DIO.List/bin/Debug/net7.0/DIO.List.deps.json
+/home/icaro/DIO.List/bin/Debug/net7.0/DIO.List.runtimeconfig.json
+/home/icaro/DIO.List/bin/Debug/net7.0/DIO.List.dll
+/home/icaro/DIO.List/bin/Debug/net7.0/DIO.List.pdb
+/home/icaro/DIO.List/obj/Debug/net7.0/DIO.List.csproj.AssemblyReference.cache
+/home/icaro/DIO.List/obj/Debug/net7.0/DIO.List.GeneratedMSBuildEditorConfig.editorconfig
+/home/icaro/DIO.List/obj/Debug/net7.0/DIO.List.AssemblyInfoInputs.cache
+/home/icaro/DIO.List/obj/Debug/net7.0/DIO.List.AssemblyInfo.cs
+/home/icaro/DIO.List/obj/Debug/net7.0/DIO.List.csproj.CoreCompileInputs.cache
+/home/icaro/DIO.List/obj/Debug/net7.0/DIO.List.dll
+/home/icaro/DIO.List/obj/Debug/net7.0/refint/DIO.List.dll
+/home/icaro/DIO.List/obj/Debug/net7.0/DIO.List.pdb
+/home/icaro/DIO.List/obj/Debug/net7.0/DIO.List.genruntimeconfig.cache
+/home/icaro/DIO.List/obj/Debug/net7.0/ref/DIO.List.dll
